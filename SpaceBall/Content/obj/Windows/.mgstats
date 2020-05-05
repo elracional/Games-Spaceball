@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.2.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/Bullet1.2.xnb","TextureProcessor","Texture2DContent",6157,5760085,0.3540528
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.3.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/Bullet1.3.xnb","TextureProcessor","Texture2DContent",2764,1440085,0.0508371
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/Bullet1.xnb","TextureProcessor","Texture2DContent",596,224085,0.0139656
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bullet3.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/bullet3.xnb","TextureProcessor","Texture2DContent",20688,161085,0.0109722
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/cursor1.gif","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/cursor1.xnb","TextureProcessor","Texture2DContent",3031,160085,0.0119713
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/cursor3.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/cursor3.xnb","TextureProcessor","Texture2DContent",27436,1351429,0.0488696
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/nave.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/nave.xnb","TextureProcessor","Texture2DContent",5158,1827989,0.0638316
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/NaveMala.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/NaveMala.xnb","TextureProcessor","Texture2DContent",23914,360085,0.0209417
+"C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/sight.png","C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bin/Windows/sight.xnb","TextureProcessor","Texture2DContent",9852,5760085,0.2244299

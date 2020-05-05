@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.2.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.3.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/Bullet1.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/bullet3.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/cursor1.gif</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/cursor3.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/MUSIC.mp3</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/nave.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/NaveMala.png</File>
+    <File>C:/Users/Elizabeth/source/repos/SpaceBall/SpaceBall/Content/sight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
